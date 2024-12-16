@@ -4,9 +4,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" height="200px" style="border-radius: 20px;"/>
 </div>
 
-## 🌟 Full-Stack Developer | Cybersecurity
-
 <div align="center">
+  <h3> 🌟 Full-Stack Developer | Cybersecurity </h3>
   <a href="www.linkedin.com/in/omar-morsi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -24,8 +23,15 @@ I'm a passionate technologist who thrives at the intersection of web development
   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=4)](https://skillicons.dev)
 </div>
 
-#### 🛡️ Cybersecurity & DevOps
 <div align="center">
+  <h4>💻 UI/UX Frameworks</h4>
+  
+   [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,xd&perline=4)](https://skillicons.dev)
+</div>
+
+
+<div align="center">
+  <h4> 🛡️ Cybersecurity & DevOps </h4>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Lunux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
@@ -34,8 +40,8 @@ I'm a passionate technologist who thrives at the intersection of web development
 
 ### 🚀 Current Exploration Zones
 
+- 🧠 Front-end & Back-end
 - 🔍 Advanced Cybersecurity Techniques
-- 🧠 Natural Language Processing
 - 💡 Generative AI & Machine Learning
 - 🌐 Distributed Systems Architecture
 
