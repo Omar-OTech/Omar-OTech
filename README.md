@@ -1,6 +1,6 @@
-# Omar Abdulaziz 🚀
+# Omar 🚀
 
-## Full-Stack Developer | Machine Learning Enthusiast
+## Full-Stack Developer | Cybersecurity
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oma)
 ![Profile Views](https://komarev.com/ghpvc/?username=oma&color=darkblue)
@@ -39,11 +39,11 @@ Passionate full-stack developer with expertise in frontend and backend technolog
 
 ### 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oma&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Omar-OTech&theme=dark&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oma&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=dark&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oma&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omar-OTech&theme=dark)
 
 ### 📫 Connect with Me
 
