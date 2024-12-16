@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" border-raduis="12"/>
 </div>
 
+<div align='center'>
+
 ## Full-Stack Developer | Cybersecurity
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oma)
@@ -60,3 +62,4 @@ For professional inquiries and collaborations, please reach out via LinkedIn.
 ---
 
 *Continuous learning | Innovation | Problem-solving*
+</div>
