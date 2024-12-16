@@ -28,8 +28,8 @@ I'm a passionate technologist who thrives at the intersection of web development
 #### 🛡️ Cybersecurity & DevOps
 <div>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Lunux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Lunux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </div>
 
 ### 🚀 Current Exploration Zones
@@ -41,15 +41,16 @@ I'm a passionate technologist who thrives at the intersection of web development
 
 ### 📊 GitHub Performance Metrics
 
+<!-- <div align="center">
+</div>
+-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-OTech&theme=dark&layout=compact" alt="Top Languages"/>
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=dark&show_icons=true" alt="GitHub Stats"/>
-</div>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-OTech&theme=dark" alt="GitHub Streak"/>
 </div>
+<!-- <div align="center">
+</div> -->
 
 ### 💬 Let's Connect & Collaborate!
 
