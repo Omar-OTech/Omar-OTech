@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200px" height="200px" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" height="200px" style="border-radius: 20px;"/>
 </div>
 
 ## 🌟 Full-Stack Developer | Cybersecurity
@@ -19,8 +19,9 @@ I'm a passionate technologist who thrives at the intersection of web development
 ### 🔧 Technology Arsenal
 
 <div align="center">
-#### 💻 Languages & Frameworks
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=3)](https://skillicons.dev)
+  <h4>💻 Languages & Frameworks</h4>
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=4)](https://skillicons.dev)
 </div>
 
 #### 🛡️ Cybersecurity & DevOps
