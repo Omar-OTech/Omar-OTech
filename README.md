@@ -7,10 +7,9 @@
 ## 🌟 Full-Stack Developer | Cybersecurity
 
 <div align="center">
-  <a href="https://linkedin.com/in/oma">
+  <a href="www.linkedin.com/in/omar-morsi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Omar-OTech&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ### 💡 About Me
@@ -20,9 +19,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 ### 🔧 Technology Arsenal
 
 #### 💻 Languages & Frameworks
-<div align="center">
-  ![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=3)](https://skillicons.dev)
-</div>
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=3)](https://skillicons.dev)
 
 #### 🛡️ Cybersecurity & DevOps
 <div align="center">
