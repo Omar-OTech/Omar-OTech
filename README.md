@@ -41,14 +41,18 @@ I'm a passionate technologist who thrives at the intersection of web development
 </div>
 
 
-### 🚀 Current Exploration Zones
+<div align="center">
+<h3> 🚀 Current Exploration Zones </h3>
+</div>
 
 - 🧠 Front-end & Back-end
 - 🔍 Advanced Cybersecurity Techniques
 - 💡 Generative AI & Machine Learning
 - 🌐 Distributed Systems Architecture
 
-### 📊 GitHub Performance Metrics
+<div align="center">
+<h3> 📊 GitHub Performance Metrics </h3>
+</div>
 
 <!-- <div align="center">
 </div>
