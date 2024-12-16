@@ -1,4 +1,4 @@
-# Hi there, I'm Omar 👋🏼🚀
+<h1 align="center">Hi 👋, I'm name</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400" style="border-radius: 15px;"/>
@@ -42,12 +42,12 @@ I'm a passionate technologist who thrives at the intersection of web development
 ### 📊 GitHub Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-OTech&theme=radical&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=radical&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-OTech&theme=dark&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=dark&show_icons=true" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oma&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-OTech&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ### 💬 Let's Connect & Collaborate!
