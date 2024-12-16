@@ -50,7 +50,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 <!-- <div align="center">
 </div>
 -->
-<div align="center">
+<div align="center" width="200px" height="200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-OTech&theme=dark&layout=compact" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=dark&show_icons=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-OTech&theme=dark" alt="GitHub Streak"/>
