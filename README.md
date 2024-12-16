@@ -20,7 +20,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 <div align="center">
   <h4>💻 Languages & Frameworks</h4>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css,py&perline=4)](https://skillicons.dev)
 </div>
 
 <div align="center">
@@ -52,8 +52,8 @@ I'm a passionate technologist who thrives at the intersection of web development
 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-OTech&theme=dark&layout=compact" alt="Top Languages" width="400" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-OTech&theme=dark" alt="GitHub Streak" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=dark&show_icons=true" alt="GitHub Stats" width="400" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-OTech&theme=dark" alt="GitHub Streak" width="400" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=dark&show_icons=true" alt="GitHub Stats" width="400" height="300"/>
 </div>
 <!-- <div align="center">
 </div> -->
