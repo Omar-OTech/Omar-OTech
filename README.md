@@ -1,11 +1,11 @@
 # Omar 🚀
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jncm9sejkyaHMxajQza3g2amVod2hnendtbWdtdHBjOWRvbjQ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jncm9sejkyaHMxajQza3g2amVod2hnendtbWdtdHBjOWRvbjQ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="150"/>
 </div>
-
+<hr/>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" border-raduis="12"/>
 </div>
 
 ## Full-Stack Developer | Cybersecurity
