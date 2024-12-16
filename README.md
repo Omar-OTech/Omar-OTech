@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3> 🌟 Full-Stack Developer | Cybersecurity | UI/UX Designer </h3>
+  <h2> 🌟 Full-Stack Developer | Cybersecurity | UI/UX Designer </h2>
   <hr>
   <a href="www.linkedin.com/in/omar-morsi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
