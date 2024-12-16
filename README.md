@@ -11,7 +11,9 @@
   </a>
 </div>
 
-### 💡 About Me
+<div align="center">
+<h2> 💡 About Me </h2>
+</div>
 
 I'm a passionate technologist who thrives at the intersection of web development, machine learning, and cybersecurity. With a relentless curiosity for cutting-edge technologies, I transform complex challenges into elegant, innovative solutions.
 
