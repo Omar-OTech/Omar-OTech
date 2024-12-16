@@ -1,19 +1,16 @@
-<h1 align="center">Hi 👋, I'm name</h1>
+<h1 align="center">Hi 👋, I'm Omar</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400" style="border-radius: 15px;"/>
 </div>
 
-## 🌟 Full-Stack Developer | Cybersecurity Enthusiast | Machine Learning Explorer
+## 🌟 Full-Stack Developer | Cybersecurity
 
 <div align="center">
   <a href="https://linkedin.com/in/oma">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/[YourTwitterHandle]">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=oma&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Omar-OTech&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ### 💡 About Me
@@ -23,14 +20,17 @@ I'm a passionate technologist who thrives at the intersection of web development
 ### 🔧 Technology Arsenal
 
 #### 💻 Languages & Frameworks
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=3)](https://skillicons.dev)
+</div>
 
 #### 🛡️ Cybersecurity & DevOps
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Lunux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </div>
+
 
 ### 🚀 Current Exploration Zones
 
