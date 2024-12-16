@@ -1,4 +1,4 @@
-# Omar 🚀
+# Omar :writing_hand:
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jncm9sejkyaHMxajQza3g2amVod2hnendtbWdtdHBjOWRvbjQ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="150"/>
@@ -8,7 +8,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" border-raduis="12"/>
 </div>
 
-<div align='center'>
 
 ## Full-Stack Developer | Cybersecurity
 
@@ -62,4 +61,3 @@ For professional inquiries and collaborations, please reach out via LinkedIn.
 ---
 
 *Continuous learning | Innovation | Problem-solving*
-</div>
