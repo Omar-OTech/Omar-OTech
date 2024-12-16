@@ -1,7 +1,7 @@
 # Omar 🚀
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/u1WhXLjwgcXpHJBMRM" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jncm9sejkyaHMxajQza3g2amVod2hnendtbWdtdHBjOWRvbjQ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="100"/>
 </div>
 
 <div align="center">
