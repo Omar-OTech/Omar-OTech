@@ -21,7 +21,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 
 #### 💻 Languages & Frameworks
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=3)](https://skillicons.dev)
+  ![My Skills](https://skillicons.dev/icons?i=react,nextjs,express,mongodb,nodejs,js,html,css&perline=3)](https://skillicons.dev)
 </div>
 
 #### 🛡️ Cybersecurity & DevOps
