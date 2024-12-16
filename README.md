@@ -43,9 +43,10 @@ I'm a passionate technologist who thrives at the intersection of web development
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omar-OTech&theme=dark&layout=compact" alt="Top Languages"/>
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omar-OTech&theme=dark&show_icons=true" alt="GitHub Stats"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-OTech&theme=dark" alt="GitHub Streak"/>
 </div>
@@ -60,8 +61,8 @@ Interested in pushing technological boundaries? I'm always eager to connect with
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<div align="center" width="200px" height="200px">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </div>
 
 *Transforming ideas into code, one commit at a time* 💻✨
