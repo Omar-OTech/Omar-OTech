@@ -17,8 +17,9 @@
 </div>
 
 I'm a passionate technologist who thrives at the intersection of web development, machine learning, and cybersecurity. With a relentless curiosity for cutting-edge technologies, I transform complex challenges into elegant, innovative solutions.
-
-### 🔧 Technology Arsenal
+<div align="center">
+<h1> 🔧 Technology Arsenal </h1>
+</div>
 
 <div align="center">
   <h4>💻 Languages & Frameworks</h4>
