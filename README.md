@@ -67,6 +67,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 </div>
 <!-- <div align="center">
 </div> -->
+---
 
 ### 💬 Let's Connect & Collaborate!
 
