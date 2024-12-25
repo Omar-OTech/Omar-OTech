@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Omar!;Welcome+to+my+Profile!" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" height="200px" style="border-radius: 20px;"/>
