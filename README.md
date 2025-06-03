@@ -32,7 +32,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 <div align="center">
   <h4>💻 UI/UX Frameworks</h4>
   
-   [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,xd&perline=4)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,pr,xd&perline=4)](https://skillicons.dev)
 </div>
 
 
