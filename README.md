@@ -75,7 +75,7 @@ I'm a passionate technologist who thrives at the intersection of web development
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Omar-OTech&theme=dark" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Omar-OTech" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">  
